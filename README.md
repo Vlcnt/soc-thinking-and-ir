@@ -25,17 +25,11 @@ All scenarios are **lab-based or simulated** and are used to demonstrate analyti
 - `reports/`  
   Incident reports documenting what happened, what can be proven, and how decisions were made.
 
-- `reports/IR-001-suspicious-powershell.md`  
-  Full incident report for a suspicious PowerShell execution.
-
-- `reports/IR-001-decision-log.md`  
-  Decision log showing how escalation, closure, and risk were evaluated.
-
 - `templates/`  
   Reusable templates for incident reports and decision logs.
 
 - `evidence/`  
-  Placeholder for supporting artifacts when applicable.
+  Supporting artifacts (screenshots or log snippets) for each incident report, when applicable.
 
 ## How to read this repository
 
@@ -45,6 +39,20 @@ If you have limited time:
 
 The incident report shows *what happened*.  
 The decision log shows *how and why decisions were made*.
+
+## Case index
+
+- **IR-001 — Suspicious PowerShell**  
+  - `reports/IR-001-suspicious-powershell.md`  
+  - `reports/IR-001-decision-log.md`
+
+- **IR-002 — New Local Administrator**  
+  - `reports/IR-002-new-local-admin.md`  
+  - `reports/IR-002-decision-log.md`
+
+- **IR-003 — RDP Brute Force**  
+  - `reports/IR-003-rdp-brute-force.md`  
+  - `reports/IR-003-decision-log.md`
 
 ## Methodology references
 
