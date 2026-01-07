@@ -42,17 +42,18 @@ The decision log shows *how and why decisions were made*.
 
 ## Case index
 
-- **IR-001 — Suspicious PowerShell**  
-  - `reports/IR-001-suspicious-powershell.md`  
-  - `reports/IR-001-decision-log.md`
+- **IR-001 — Suspicious PowerShell**
+  - [Incident report](reports/IR-001-suspicious-powershell.md)
+  - [Decision log](reports/IR-001-decision-log.md)
 
-- **IR-002 — New Local Administrator**  
-  - `reports/IR-002-new-local-admin.md`  
-  - `reports/IR-002-decision-log.md`
+- **IR-002 — New Local Administrator**
+  - [Incident report](reports/IR-002-new-local-admin.md)
+  - [Decision log](reports/IR-002-decision-log.md)
 
-- **IR-003 — RDP Brute Force**  
-  - `reports/IR-003-rdp-brute-force.md`  
-  - `reports/IR-003-decision-log.md`
+- **IR-003 — RDP Brute Force**
+  - [Incident report](reports/IR-003-rdp-brute-force.md)
+  - [Decision log](reports/IR-003-decision-log.md)
+
 
 ## Methodology references
 
